@@ -1,0 +1,177 @@
+.icon input
+{
+margin-left: 10%;
+margin-top: 8px;
+height: 25px;
+width: 40%;
+
+}
+
+.icon button
+{
+margin-left: 20px;
+height: 30px;
+width: 5%;
+
+
+}
+.content
+{
+margin-top:5px ;
+
+}
+.hh
+{
+   text-shadow: 3px 3px 6px rgb(21, 154, 177) ;
+}
+
+.card img
+{
+height: 250px;
+width: 100%;
+
+}
+.card
+{
+height: 420px;
+width: 23%;
+margin-left:20px;
+margin-top: 20px;
+float: left;
+background-color: rgb(132, 180, 180);
+text-align: center;
+box-shadow: 3px 3px 3px 3px rgb(7, 7, 7);
+}
+.card :hover
+{
+transform: scale(0.90);
+
+}
+ .card button{
+    background-color: blue;
+    color: aliceblue;
+ }
+
+
+.main
+{
+height: 250px;
+width: 100%;
+}
+
+
+.cards img
+{
+width: 100%;
+border-radius: 150px;
+height:150px ;
+
+}
+
+ .cards
+ {
+ border: 1px solid;
+ height: 150px;
+ width: 12%;
+ margin-left:50px;
+ margin-top: 10px;
+ float: left;
+ background-color: rgb(132, 180, 180);
+ text-align: center;
+ box-shadow: 2px 2px 2px 2px rgb(109, 109, 109);
+border-radius: 150px;
+/* color: rgb(60, 177, 179); */
+text-shadow: 3px 3px 6px rgb(177, 138, 21) ;
+
+ }
+
+ .cards :hover
+{
+transform: scale(1.2);
+
+}
+
+
+.flowerss
+{
+height: 460px;
+/* border: 2px solid red; */
+width: 100%;
+}
+.flower
+{
+
+height: 420px;
+width: 23%;
+margin-left:20px;
+margin-top: 20px;
+float: left;
+background-color: rgb(221, 239, 239);
+text-align: center;
+box-shadow: 3px 3px 3px 3px rgb(128, 127, 127);
+
+}
+
+.flower img
+{
+height: 250px;
+width: 100%;
+
+}
+
+.flower button{
+   background-color: blue;
+   color: aliceblue;
+}
+
+
+
+footer
+{
+height: 300px;
+  width: 100%;
+/* border: 2px solid red; */
+margin-top: 20px;
+background-color: rgb(38, 38, 38);
+
+
+}
+.foot
+{
+width: 23%;
+/* border: 2px solid blue; */
+margin-top: 20px;
+float: left;
+margin-left: 10px;  
+text-align: center;
+color: white;
+
+}
+.foot iframe
+{
+height: 150px;
+width: 100% ;
+}
+
+ .foot i
+{
+font-size: 30px;
+
+
+}
+
+
+.foot input
+{
+   width: 80%;
+   height: 20px;
+
+}
+.copy
+{
+
+margin-top: 30px;
+font-size: 20px;
+text-align: center;
+
+}
